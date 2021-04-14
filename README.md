@@ -15,7 +15,7 @@
 - ⚡ Fun fact: i love hilarious video XD
 
 > ## It doesn't matter if you go forward slowly as long as you don't stop
----
+
 **Tech i use**
  - Laravel
  - Vue.js
