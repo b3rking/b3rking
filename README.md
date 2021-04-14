@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hey there, I'm called ISHIMWE Eschyle Bersy - pseudo : b3rking 
 
-<!--
-**b3rking/b3rking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**about me?** let's see... i'm a web developer with good chalenging behavior. I live in Bujumbura, Burundi
 
-Here are some ideas to get you started:
+---
+### yes know me better? 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on our Team website
+- 🌱 I’m currently learning vue.js
+- 👯 I’m looking to collaborate on javascript and python project
+- 🤔 I’m looking for help with oauth2 docs
+- 💬 Ask me about laravel, vue.js, jquery, sass, python, Rest APIs
+- 📫 How to reach me: gmail - ishimweeschylebersy@gmail.com
+- 😄 Pronouns: he/his
+- ⚡ Fun fact: i love hilarious video XD
+
+---
+**Tech i use**
+ - Laravel
+ - Vue.js
+ - Sass
+ - Django
+ - Flutter
+---
+**wanna get in touch with me?**
+email me here : <ishimweeschylebersy@gmail.com>
+
