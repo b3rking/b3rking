@@ -28,6 +28,6 @@ email me here : <ishimweeschylebersy@gmail.com>
 
 ___
 
-|My github statistics|My languages|Streaks|
+|Statistics|My languages|Streaks|
 |-|-|-|
 |[![b3rking's github stats](https://github-readme-stats.vercel.app/api?username=b3rking&show_icons=true&theme=dark&hide_title=true)](https://github.com/b3rking)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b3rking&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/b3rking)|![b3rking](https://github-readme-streak-stats.herokuapp.com/?user=b3rking&theme=dark)
