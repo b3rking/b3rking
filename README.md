@@ -25,4 +25,7 @@ ___
 
 ---
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
+---
 [![b3rking's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=b3rking)](https://github.com/b3rking/github-readme-stats)
