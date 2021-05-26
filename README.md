@@ -16,18 +16,13 @@
 
 > ## It doesn't matter if you go forward slowly as long as you don't stop
 
-**Tech i use**
- - Laravel
- - Vue.js
- - Sass
- - Django
- - Flutter
----
 **wanna get in touch with me?**
 email me here : <ishimweeschylebersy@gmail.com>
 
 ___
 
-|Statistics|My languages|Streaks|
-|-|-|-|
-|[![b3rking's github stats](https://github-readme-stats.vercel.app/api?username=b3rking&show_icons=true&theme=dark&hide_title=true)](https://github.com/b3rking)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b3rking&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/b3rking)|![b3rking](https://github-readme-streak-stats.herokuapp.com/?user=b3rking&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b3rking&langs_count=8)](https://github.com/b3rking/github-readme-stats)
+
+---
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=b3rking)](https://github.com/b3rking/github-readme-stats)
