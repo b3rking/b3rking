@@ -18,7 +18,6 @@
 
 **wanna get in touch with me?**
 email me here : <ishimweeschylebersy@gmail.com>
-
 ___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b3rking&langs_count=8&theme=radical)](https://github.com/b3rking/github-readme-stats)
@@ -29,3 +28,8 @@ ___
 
 ---
 [![b3rking's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=b3rking&theme=radical)](https://github.com/b3rking/github-readme-stats)
+
+---
+## Got those visit recently... :D
+
+![Visitor Count](https://profile-counter.glitch.me/b3rking/count.svg)
