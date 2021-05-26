@@ -25,4 +25,4 @@ ___
 
 ---
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=b3rking)](https://github.com/b3rking/github-readme-stats)
+[![b3rking's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=b3rking)](https://github.com/b3rking/github-readme-stats)
