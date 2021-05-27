@@ -1,4 +1,4 @@
-## Hey there, I'm called ISHIMWE Eschyle Bersy - pseudo : b3rking 
+## Hey there, I'm called ISHIMWE Eschyle Bersy - b3rking a web enthousiast
 
 **about me?** let's see... i'm a web developer with good chalenging behavior. I live in Bujumbura, Burundi
 
