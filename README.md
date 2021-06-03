@@ -26,7 +26,7 @@ ___
 
 ![b3rking's GitHub stats](https://github-readme-stats.vercel.app/api?username=b3rking&hide=contribs,prs&theme=radical&show_icons=true)
 
-<!--[![b3rking's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=b3rking&theme=radical)](https://github.com/b3rking/github-readme-stats)-->
+[![b3rking's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=b3rking&theme=radical)](https://github.com/b3rking/github-readme-stats)
 
 ---
 ## Got those visit recently... :D
