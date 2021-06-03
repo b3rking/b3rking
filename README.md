@@ -20,7 +20,7 @@
 email me here : <ishimweeschylebersy@gmail.com>
 ___
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b3rking&langs_count=8&theme=radical)](https://github.com/b3rking/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b3rking&langs_count=8&theme=radical&hide=css,blade,html,shell)](https://github.com/b3rking/github-readme-stats)
 
 ---
 
