@@ -1,16 +1,7 @@
 ## Hey there, It's ISHIMWE Eschyle Bersy - b3rking a web enthousiast
 
-**about me?** let's see... i'm a web developer with good chalenging behavior. I live in Bujumbura, Burundi
+**about me?** let's see... i'm a web developer with good chalenging behavior
 
----
-### yes know me better? 
-
-- 🌱 I’m currently learning vue.js
-- 👯 I’m looking to collaborate on javascript and python project
-- 💬 Ask me about laravel, vue.js, jquery, sass, python, Rest APIs
-- 📫 How to reach me: gmail - ishimweeschylebersy@gmail.com
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: i love hilarious video XD
 
 > ## It doesn't matter if you go forward slowly as long as you don't stop
 
