@@ -1,4 +1,4 @@
-<!-- ## Hey there, It's ISHIMWE Eschyle Bersy - b3rking a web enthousiast
+## Hey there, It's ISHIMWE Eschyle Bersy - b3rking a web enthousiast
 
 **about me?** let's see... i'm a web developer with good chalenging behavior
 
@@ -21,4 +21,4 @@ ___
 ## Got those visit recently... :D
 
 ![Visitor Count](https://profile-counter.glitch.me/b3rking/count.svg)
- -->
+ 
