@@ -1,4 +1,4 @@
-Hi 👋 My name is ISHIMWE Eschyle Bersy (b3rking)
+Hi 👋 My name is ISHIMWE Eschyle Bersy
 ======================================
 
 Fullstack web developer
