@@ -13,9 +13,7 @@ i just code.
 * 🤝  I'm open to collaborating on open source project
 * ⚡  i'm so freakin lazy
 
-<a href="https://www.twitter.com/b3rking" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/b3rking?logo=twitter&style=for-the-badge&color=22c55e&labelColor=134e4a"
-/></a><a href="https://www.github.com/b3rking" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/b3rking" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/b3rking?logo=github&style=for-the-badge&color=22c55e&labelColor=134e4a" /></a>
 
 ### Skills
