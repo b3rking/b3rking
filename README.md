@@ -11,7 +11,7 @@ i just code.
 * 🚀  I'm currently working on [famaburundi](http://famaburundi.com)
 * 🧠  I'm learning react, nextjs
 * 🤝  I'm open to collaborating on open source project
-* ⚡  i'm so freakin lazy
+* ⚡  i'm so ...
 
 <a href="https://www.github.com/b3rking" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/b3rking?logo=github&style=for-the-badge&color=22c55e&labelColor=134e4a" /></a>
