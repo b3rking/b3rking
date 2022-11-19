@@ -4,8 +4,6 @@ Hi 👋 My name is ISHIMWE Eschyle Bersy
 Fullstack web developer
 -----------------------
 
-it just fun to code.
-
 * 🌍  I'm based in Bujumbura, Burundi
 * ✉️  You can contact me at [ishimweeschylebersy@gmail.com](mailto:ishimweeschylebersy@gmail.com)
 * 🚀  I'm currently working on [famaburundi](http://famaburundi.com)
