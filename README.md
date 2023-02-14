@@ -7,7 +7,7 @@ Fullstack web developer
 * 🌍  I'm based in Bujumbura, Burundi
 * ✉️  You can contact me at [ishimweeschylebersy@gmail.com](mailto:ishimweeschylebersy@gmail.com)
 * 🚀  I'm currently working on [famaburundi](http://famaburundi.com)
-* 🧠  I'm learning react, nextjs
+* 🧠  I'm learning react, nextjs, laravel
 * ⚡  i'm so ...
 
 <a href="https://www.github.com/b3rking" target="_blank" rel="noreferrer"><img
